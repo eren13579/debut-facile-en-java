@@ -1,8 +1,16 @@
 package com.zerofiltre.parkingbot;
 
-public class Main {
+public class ParkingBot {
 
-    public static void main(String[] args) {
-        System.out.println("Hello World");
-    }
+
+  /**
+   * Ceci est la méthode Main
+   *
+   * @param args : Tableau de données entrées lors du lancement de l'application
+   */
+  public static void main(String[] args) {
+  }
+
+
+
 }
